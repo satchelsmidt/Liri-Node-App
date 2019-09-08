@@ -22,7 +22,7 @@ do-what-it-says: this will run the spotify search for "I want it that way"
 
 Include screenshots, gifs or videos of the app functioning
 
-
+<img src="/assets/gif_1.gif" width="40" height="40" />
 
 
 Contain a link to a deployed version of the app
